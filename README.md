@@ -1,5 +1,7 @@
 # Rio Terminal Configuration
 
+![Rio Terminal Screenshot](assets/Screenshot.png)
+
 This repository contains my personal configuration for the Rio terminal emulator. Rio is a modern GPU-accelerated terminal emulator written in Rust.
 
 ## Configuration Files
